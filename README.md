@@ -7,11 +7,11 @@ It is required to create a quiz application, which will include multiple-choice 
 
 Main elements:
 
- Intro section with instructions.
- Questions display with answers displaying in random order.
- Inmediate visual and audio feedback for the asnwered questions.
- A timer.
- Highscores sortered and registered with localStorage.
+Intro section with instructions.
+Questions display with answers displaying in random order.
+Inmediate visual feedback for the asnwered questions.
+A timer.
+Highscores sortered and registered with localStorage.
 Additional given characteristics: This app will run in the browser and feature dynamically updated HTML and CSS powered by JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
 
 The development process
